@@ -1,0 +1,16 @@
+# Rust
+/target
+**/*.rs.bk
+**/*.d
+overlay
+
+# Build artifacts
+*.iso
+*.img
+*.elf
+
+# QEMU images
+*.qcow2
+
+# OS development artifacts
+bootimage-* 

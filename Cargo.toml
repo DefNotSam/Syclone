@@ -1,0 +1,5 @@
+[workspace]
+members = ["kernel"]
+
+[workspace.metadata]
+start-implementation = "Minimal bootable Rust kernel and QEMU setup"
